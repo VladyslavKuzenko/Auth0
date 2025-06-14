@@ -1,5 +1,5 @@
-# Auth0
-Example how to use Auth0 with React+Spring
+# Example how to use Auth0 with React+Spring
+
 
 What you need to run the project:
 
